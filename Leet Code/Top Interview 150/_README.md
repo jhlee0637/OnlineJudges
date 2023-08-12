@@ -1,12 +1,12 @@
 # Array / String
-[Merge Sorted Array](./MergeSortedArray_88_MySelf.py) Aug.2023    
-[Remove Element](./RemoveElement_27_MySelf.py) Aug.2023    
-[Remove Duplicates from Sorted Array](./RemoveDuplicatesFromSortedArray_26_Myself.py) Aug.2023    
-[Remove Duplicates from Sorted Array II](./RemoveDuplicatesFromSortedArrayII_80_MySelf.py) Aug.2023    
-[Majority Element](./MajorityElement_169_MySelf.py) Aug.2023    
-Rotate Array    
-[Best Time to Buy and Sell Stock](./BestTimeToBuyAndSellStock_121_MySelf.py) Aug.2023    
-Best Time to Buy and Sell Stock II    
+[Merge Sorted Array](./MergeSortedArray_88_MySelf.py) - Aug.2023    
+[Remove Element](./RemoveElement_27_MySelf.py) - Aug.2023    
+[Remove Duplicates from Sorted Array](./RemoveDuplicatesFromSortedArray_26_Myself.py) - Aug.2023    
+[Remove Duplicates from Sorted Array II](./RemoveDuplicatesFromSortedArrayII_80_MySelf.py) - Aug.2023    
+[Majority Element](./MajorityElement_169_MySelf.py) - Aug.2023    
+[Rotate Array](./RotateArray_189_MySelf.py) - Aug.2023    
+[Best Time to Buy and Sell Stock](./BestTimeToBuyAndSellStock_121_MySelf.py) - Aug.2023    
+[Best Time to Buy and Sell Stock II](./BestTimeToButAndSellStockII_122_MySelf.py) - Aug.2023    
 Jump Game    
 Jump Game II    
 H-Index    
