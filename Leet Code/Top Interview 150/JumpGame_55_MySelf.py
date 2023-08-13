@@ -25,4 +25,4 @@ class Solution:
             elif val==0 and maxIdx<=idx:
                 answer=False
                 break
-        return answer
+        return answer 
