@@ -8,8 +8,8 @@
 [Best Time to Buy and Sell Stock](./BestTimeToBuyAndSellStock_121_MySelf.py) - Aug.2023    
 [Best Time to Buy and Sell Stock II](./BestTimeToButAndSellStockII_122_MySelf.py) - Aug.2023    
 [Jump Game](./JumpGame_55_MySelf.py) - Aug.2023    
-Jump Game II    
-H-Index    
+[Jump Game II](./JumpGame2_45_MySelf.py) - Oct.2023       
+[H-Index](./H-Index_274.py) - Oct.2023      
 Insert Delete GetRandom O(1)    
 Product of Array Except Self    
 Gas Station    
