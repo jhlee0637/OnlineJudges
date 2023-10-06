@@ -10,7 +10,7 @@
 [Jump Game](./JumpGame_55_MySelf.py) - Aug.2023    
 [Jump Game II](./JumpGame2_45_MySelf.py) - Oct.2023       
 [H-Index](./H-Index_274.py) - Oct.2023      
-Insert Delete GetRandom O(1)    
+[Insert Delete GetRandom O(1)](./InsertDeleteGetRandomO(1)_380_MySelf.py) - Oct.2023    
 Product of Array Except Self    
 Gas Station    
 Candy    
