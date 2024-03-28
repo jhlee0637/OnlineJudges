@@ -41,8 +41,10 @@ def fib(n,k):
         return fib(n-1,k)+fib(n-2,k)*k
 
 if __name__=="__main__":
-    n=33
-    k=2
+    n=5
+    k=3
+    #n=
+    #k=
     print(fib(n-1,k))
 
     
