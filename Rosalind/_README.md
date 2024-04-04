@@ -1,9 +1,9 @@
 [DNA](./DNA.py)    
-RNA    
+[RNA](./RNA.py)    
 REVC    
 GC    
 HAMM    
-FIB    
+[FIB](./FIB.py)    
 IPRB    
 PROT    
 SUBS    
