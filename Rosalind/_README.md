@@ -1,6 +1,6 @@
 [DNA](./DNA.py)    
 [RNA](./RNA.py)    
-REVC    
+[REVC](./REVC.py)    
 GC    
 HAMM    
 [FIB](./FIB.py)    
