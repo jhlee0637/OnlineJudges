@@ -1,13 +1,13 @@
 [DNA](./DNA.py)    
 [RNA](./RNA.py)    
 [REVC](./REVC.py)    
-GC    
-HAMM    
+[GC](./GC.py)    
+[HAMM](./HAMM.py)    
 [FIB](./FIB.py)    
 IPRB    
 PROT    
 SUBS    
-PERM    
+[PERM](./PERM.py)    
 CONS    
 FIBD    
 GRPH    
