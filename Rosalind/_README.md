@@ -6,9 +6,9 @@
 [FIB](./FIB.py)    
 IPRB    
 PROT    
-SUBS    
+[SUBS](./SUBS.py)    
 [PERM](./PERM.py)    
-CONS    
+[CONS](./CONS.py)    
 FIBD    
 GRPH    
 IEV    
