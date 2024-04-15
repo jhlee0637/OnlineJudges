@@ -4,8 +4,8 @@
 [GC](./GC.py)    
 [HAMM](./HAMM.py)    
 [FIB](./FIB.py)    
-IPRB    
-PROT    
+[IPRB](./IPRB.py)    
+[PROT](./PROT.py)    
 [SUBS](./SUBS.py)    
 [PERM](./PERM.py)    
 [CONS](./CONS.py)    
