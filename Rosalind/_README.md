@@ -10,7 +10,7 @@
 [PERM](./PERM.py)    
 [CONS](./CONS.py)    
 [FIBD](./FIBD.py)    
-GRPH    
+[GRPH](./GRPH.py)    
 IEV    
 LCSM    
 LIA    
