@@ -11,8 +11,8 @@
 [CONS](./CONS.py)    
 [FIBD](./FIBD.py)    
 [GRPH](./GRPH.py)    
-IEV    
-LCSM    
+[IEV](./IEV.py)    
+[LCSM](./LCSM.py)    
 LIA    
 MPRT    
 MRNA    
