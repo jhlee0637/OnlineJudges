@@ -13,7 +13,7 @@
 [GRPH](./GRPH.py)    
 [IEV](./IEV.py)    
 [LCSM](./LCSM.py)    
-LIA    
+[LIA](./LIA.py)    
 MPRT    
 MRNA    
 ORF    
