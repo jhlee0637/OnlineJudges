@@ -53,6 +53,6 @@ def independence(gen, minAaBbChild):
     return 1 - result
 
 if __name__ == "__main__":
-    gen, minAaBbChild = 7, 30
+    gen, minAaBbChild = 6, 16
     result = independence(gen, minAaBbChild)
-    print(result)
+    print(round(result,3))
