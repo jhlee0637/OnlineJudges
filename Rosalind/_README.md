@@ -16,7 +16,7 @@
 [LIA](./LIA.py)    
 [MPRT](./MPRT.py)    
 MRNA    
-ORF    
+[ORF](./ORF.py)    
 PRTM    
 REVP    
 SPLC    
