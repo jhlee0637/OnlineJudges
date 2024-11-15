@@ -12,7 +12,7 @@
 import sys
 reading=sys.stdin.readlines()
 seq = reading[0].strip()
-seq='bcbcbc'
+
 seqs=list()
 for i in range(1,len(seq)):
     for j in range(i+1,len(seq)):
