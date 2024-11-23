@@ -1,4 +1,4 @@
-# DNA
+# ROSALIND | DNA
 https://rosalind.info/problems/dna/
 
 ### Problem
