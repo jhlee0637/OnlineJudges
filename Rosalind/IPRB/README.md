@@ -4,10 +4,9 @@ https://rosalind.info/problems/iprb/
 
 Problem
 -------
-
-[![](https://rosalind.info/media/problems/iprb/balls_tree.thumb.png)](https://rosalind.info/media/problems/iprb/balls_tree.png)
-
-**Figure 2**. The probability of any outcome (leaf) in a probability tree diagram is given by the product of probabilities from the start of the tree to the outcome. For example, the probability that X is blue and Y is blue is equal to (2/5)(1/4), or 1/10.
+>[![](https://rosalind.info/media/problems/iprb/balls_tree.thumb.png)](https://rosalind.info/media/problems/iprb/balls_tree.png)
+>
+>**Figure 2**. The probability of any outcome (leaf) in a probability tree diagram is given by the product of probabilities from the start of the tree to the outcome. For example, the probability that X is blue and Y is blue is equal to (2/5)(1/4), or 1/10.
 
 [Probability](https://rosalind.info/glossary/probability/ "New term: 
 The mathematical study of the chance of occurrence of random events, or the chance with which
