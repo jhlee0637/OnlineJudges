@@ -30,8 +30,8 @@ else:
 
     elif i==len(S)-1:
         left = range(S[-2]+1, n)
-        right = range(n+1, 1001)
-        endToend = len(left)*len(right)
+        right = 0
+        endToend = 0
 
     else:
         left = range(S[i-1]+1, n)
