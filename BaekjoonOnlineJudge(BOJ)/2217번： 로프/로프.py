@@ -12,15 +12,12 @@
 import sys
 reading=sys.stdin.readlines()
 N = int(reading[0].strip())
-ropes = list(reversed([int(r.strip()) for r in reading[1:]]))
+ropes = [int(r.strip()) for r in reading[1:]]
+ropes.sort(reverse=True)
 
-maxW = 0
+weights = list()
 for k  in range(N):
-    w = min(ropes[:k+1])*(k+1)
-    if maxW>w:
-        break
-    else:
-        maxW = w
+    w = ropes[k]*(k+1)
+    weights.append(w)
     
-
-print(maxW)
+print(max(weights))
